@@ -58,7 +58,7 @@
     "url": "https://www.bc.gob.cu",
     "icon": "https://favicons.githubusercontent.com/www.bc.gob.cu",
     "slug": "bcc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 1976,
     "timeMonth": 3067,
     "timeYear": 3067,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 0
+    }
   }
 ]
